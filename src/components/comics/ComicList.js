@@ -34,4 +34,5 @@ const comicList = ({comicList}) => {
     )
 }
 
+
 export default comicList;
